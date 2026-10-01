@@ -84,3 +84,7 @@ The Training Lab screen in the app (Team tab) shows your training tokens, traini
 - Train players who start regularly. Benching them wastes the investment.
 - Check eligibility first. Higher levels need a strong career record and a top ranking, so not every player can reach level 5.
 - Training is one of the six [Match Preparation](../03-matches/match-preparation.md) tasks: train 4 players to earn +0.25 Focus Boost.
+
+## The Training Lab screen
+
+The Training Lab shows your **tokens**, the number of **training slots** in use (for example 1/4), how many players are **ready to claim** and how many are **eligible**. A training slot shows a countdown timer, and a **Finish now** button with a token price lets you skip the wait. The exact rules for tokens, slots and timers are not documented yet; see [the screen](../07-screens/team-and-player-screens.md) for a picture and [Not yet documented](../06-reference/not-yet-documented.md).

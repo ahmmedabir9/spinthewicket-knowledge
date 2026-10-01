@@ -30,11 +30,12 @@ knowledge/
     04-tactics/             field setting, stadiums and pitches
     05-progression/         training, XP, tournaments and seasons
     06-reference/           glossary, FAQ, app navigation, not yet documented
+    07-screens/             screenshot walk-throughs with written descriptions of each screen
   bn/                       Bangla versions (same paths as en/)
 agent/
   system-prompt.md          instructions for the Discord help agent
   eval-questions.md         questions to test the agent after changes
-screenshots/                app screenshots (see screenshots/README.md)
+screenshots/                app screenshots, compressed WebP (see screenshots/README.md)
 scripts/                    sync, index and validation tools
 docs/open-questions.md      things to verify with the game team (not read by the agent)
 ```

@@ -12,6 +12,11 @@ Things to check with the game team before relying on them in the knowledge base.
 | 4 | Play style names | Playing XI uses Conservative / Standard / Attacking. Live matches use Conservative / Standard / Aggressive (DEF / BAL / AGG in the UI). | Both sets are mentioned in the FAQ. | Confirm whether these are two separate settings or the same one with different labels. |
 | 5 | Quick Match stats | Technical notes disagree on whether quick-match results count toward player stats. | Not stated in the knowledge base. | Confirm and add to the Quick Match guide. |
 | 6 | Autoplay scoring | Technical notes mention an "autoplay penalty" that affects performance scoring. | Not stated. | Confirm what players should know. |
+| 7 | Starting balance | Technical docs say the league default is 2,000,000. A new team in the first-run flow showed 20M. | "Set by the league", with the 20M example. | Confirm the real default. |
+| 8 | Squad cap | A Full Squad screen showed 17 / 17 (test league). | Mentioned as one example. | Confirm how the cap is chosen. |
+| 9 | Match expiry | Scheduled matches show an "Expires" date and time (a day or so after the scheduled start). | Not explained in the knowledge base. | Confirm what happens when a match expires (auto-play? forfeit?). |
+| 10 | Second reward icon | The match reward screen shows coins, a second currency (+200) and XP. | Described as "a second currency". | Confirm its name and use (training tokens?). |
+| 11 | Tournament rewards | A series runner-up received 1,775,900 coins and 400 XP. | One example only. | Confirm how tournament rewards are calculated. |
 
 ## Details to confirm
 

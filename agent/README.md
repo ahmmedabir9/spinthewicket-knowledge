@@ -19,6 +19,10 @@ If you prefer to keep prompts small:
 
 Whichever you choose, keep the rule "answer only from these files" in the prompt.
 
+## Screens
+
+`knowledge/en/07-screens/` describes every screenshot in words (the agent reads text, not images). When a player asks "where is X" or "what does this screen mean", these pages are the best source. Players can also be sent the image files in `screenshots/` if your Discord setup allows attachments.
+
 ## Keeping the agent current
 
 The agent should read from the repo's `main` branch. Typical setups:

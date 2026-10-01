@@ -13,16 +13,17 @@ screenshots/
   market/       Signing Market, Scout, History, retention
   matches/      pre-match, live match, results
   tactics/      field setting, pitches
-  progression/  training, tournaments, XP
+  progression/  training, XP
+  league/       tournaments, rankings, teams pages
 ```
 
 ## File names
 
 Lowercase, hyphenated, in the order a player would see them:
 
-`playing-xi-overview.png`, `signing-market-recommended.png`, `match-preparation-tasks.png`
+`playing-xi-pitch-view.webp`, `signing-market-recommended.webp`, `match-preparation-tasks.webp`
 
-Use PNG or WebP. Keep each image under about 400 KB and crop to the phone screen. Avoid screenshots that show other players' names, emails or personal details.
+Use WebP, 640 px wide (about 40-60 KB each). Keep each image under about 400 KB and crop to the phone screen. **Never commit screenshots that show real names, emails, account handles, session lists or private chat.** Blur or leave them out. The first batch (80 screens) was taken on a test league: names were blurred and the account, settings and chat screens were left out.
 
 ## Add a text description every time
 
@@ -50,3 +51,7 @@ These match the topics already documented:
 7. Tournament pages (Home, Matches, Points)
 
 The validation script checks that every image linked from a knowledge page exists.
+
+## What is already here
+
+The first batch of screenshots (October 2026) is described in `knowledge/en/07-screens/`, one page per area (first launch, home, team and player, market, match day, league and tournaments). To add or replace a screen, drop the WebP in the right folder, then add or edit the description in the matching page.

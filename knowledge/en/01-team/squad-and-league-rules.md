@@ -20,8 +20,8 @@ Each league is configured by its managers (admins). The same game can therefore 
 | Home player boost | A bonus of 0 to +5 added to the effective rating of home-country players. |
 | Minimum home players in the XI | Forces you to include a minimum number of home-country players (0 to 11). |
 | Maximum legends in the XI | Limits how many legend players you can play at once. |
-| Starting balance | The coins each team starts with. The usual default is 2,000,000. |
-| Squad size cap | The maximum number of players a team can hold. Set by the league (the Signing Market guide refers to a 25-player squad cap). |
+| Starting balance | The coins each team starts with. Set by the league. A brand-new team in the first-run flow showed a balance of 20M. |
+| Squad size cap | The maximum number of players a team can hold. Set by the league (the Signing Market guide refers to a 25-player squad cap, and the Full Squad screen of one league showed 17 / 17). |
 | One team per user | Many leagues allow only one team per manager. |
 
 ## Joining a league

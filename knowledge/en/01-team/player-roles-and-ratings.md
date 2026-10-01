@@ -29,7 +29,7 @@ Ratings run from **0 to 100**.
 - **Bowling level** - how good the player is with the ball.
 - **OVR** - the overall rating. It drives a player's price tier and which [quota pool](../02-market/pool-quotas.md) they belong to.
 
-No player is rated above 94. Base ratings are set by the game team using real-world T20 form and are reviewed from time to time.
+The highest-rated players in the app are in the mid-90s (the Players to Watch list showed ratings up to 96). Base ratings are set by the game team using real-world T20 form and are reviewed from time to time.
 
 ## Batting position zones
 

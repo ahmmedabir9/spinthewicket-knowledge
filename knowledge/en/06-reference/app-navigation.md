@@ -12,6 +12,8 @@ last_updated: 2026-10-02
 
 The app is mobile-first. If a screen has changed since this page was written, trust the app and tell the support team so this page can be updated.
 
+**Screenshots with written descriptions** are in the screens section: [first launch and team creation](../07-screens/first-launch-and-team-creation.md), [Home, modes and More menu](../07-screens/home-and-navigation.md), [Team and player screens](../07-screens/team-and-player-screens.md), [Market screens](../07-screens/market-screens.md), [Match day screens](../07-screens/match-day-screens.md), [Tournament and team screens](../07-screens/league-and-tournament-screens.md).
+
 ## Top bar and bottom navigation
 
 - **Top bar** (most screens): back button, your club crest, name and level, your coin balance, chat, notifications bell, and the league badge. Tap the league badge to open the **League Hub**.

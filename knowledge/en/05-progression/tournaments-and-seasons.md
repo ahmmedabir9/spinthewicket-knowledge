@@ -1,6 +1,6 @@
 ---
 title: "Tournaments and seasons"
-summary: "Tournament types (Championship, Series, Knockout), how fixtures and the points table work, the tournament screens, awards, and how seasons and records are tracked."
+summary: "Tournament types (Championship, Bilateral Series, Tri-series, Knockout Cup), the creation wizard, how fixtures and the points table work, the tournament screens, awards, and how seasons and records are tracked."
 keywords: ["tournament", "championship", "series", "knockout", "fixtures", "points table", "standings", "season", "group", "qualify", "records", "awards", "player of the tournament"]
 language: en
 audience: players
@@ -12,15 +12,16 @@ last_updated: 2026-10-02
 
 ## Tournament types
 
-League managers create tournaments from the League tab (New Tournament). There are three types:
+League managers create tournaments from the League tab (Tournaments, then **New Tournament**). The tournament archive shows these types:
 
 | Type | What it is |
 |---|---|
-| **Championship** | The season-long round-robin among all teams. It crowns the season champion. |
-| **Series** | A short head-to-head series between selected teams. |
-| **Knockout** | A single-elimination bracket. |
+| **Championship** | The season-long tournament among all teams (for example 16 teams, played in groups). It crowns the season champion. |
+| **Bilateral Series** | Exactly 2 teams play back to back, up to 5 rounds. The team with the most wins takes the trophy. |
+| **Tri-series** | A short series between 3 teams. |
+| **Knockout Cup** | A single-elimination bracket. It needs 4, 8 or 16 teams. |
 
-Setting up a tournament takes a short wizard: choose the type, enter the clubs, and name it. The game then draws the fixtures.
+Setting up a tournament takes a four-step wizard: **choose the format, pick the trophy, enter the clubs, name it**. Every match in a tournament created this way is 10 overs. The full fixture list is drawn as soon as you create it, and **teams cannot be added or removed afterwards**. Managers whose clubs are entered get a notification and a popup when it starts. See the [tournament screens](../07-screens/league-and-tournament-screens.md) for pictures of each step.
 
 ## Fixtures
 
@@ -43,7 +44,7 @@ A tournament page has four tabs:
 - **Points** - standings.
 - **Stats** - tournament leaders.
 
-When a tournament finishes you see the winner, awards and a "series is complete" screen with rewards. Finished tournaments move to the **Archive**.
+When a tournament finishes you see a completion popup (your finish, record, player of the tournament and rewards in coins and XP), and the tournament page shows the winner and a **Tournament Awards** section (Best Player, Golden Ball, Golden Bat). Finished tournaments move to the **Archive**.
 
 ## Results and awards
 
@@ -57,4 +58,4 @@ When a Championship ends, the league may start the [retention stage](../02-marke
 
 ## Related
 
-[League Match](../03-matches/league-match.md), [Match formats and scoring](../03-matches/match-formats-and-scoring.md), [Match Preparation](../03-matches/match-preparation.md)
+[Tournament screens](../07-screens/league-and-tournament-screens.md), [League Match](../03-matches/league-match.md), [Match formats and scoring](../03-matches/match-formats-and-scoring.md), [Match Preparation](../03-matches/match-preparation.md)

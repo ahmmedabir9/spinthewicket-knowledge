@@ -49,7 +49,7 @@ Every file in the knowledge base, with a one-line summary. English files are in 
 
 | File | Summary | Updated | Bangla |
 |---|---|---|---|
-| [Tournaments and seasons](en/05-progression/tournaments-and-seasons.md) | Tournament types (Championship, Series, Knockout), how fixtures and the points table work, the tournament screens, awards, and how seasons and records are tracked. | 2026-10-02 | - |
+| [Tournaments and seasons](en/05-progression/tournaments-and-seasons.md) | Tournament types (Championship, Bilateral Series, Tri-series, Knockout Cup), the creation wizard, how fixtures and the points table work, the tournament screens, awards, and how seasons and records are tracked. | 2026-10-02 | - |
 | [Training](en/05-progression/training.md) | How player training works: levels 0-5, +1 rating per level, performance points and coin costs, eligibility stats, how training wears off, bench penalties and level loss. | 2026-10-02 | - |
 | [XP and levels](en/05-progression/xp-and-levels.md) | How teams and leagues earn XP and level up, what actions give XP, and the rewards for winning championships. | 2026-10-02 | - |
 
@@ -61,4 +61,15 @@ Every file in the knowledge base, with a one-line summary. English files are in 
 | [Frequently asked questions](en/06-reference/faq.md) | Quick answers to common player questions on teams, the Signing Market, matches, training, fielding, pitches and seasons, each linking to the detailed guide. | 2026-10-02 | - |
 | [Glossary](en/06-reference/glossary.md) | Definitions of game terms: OVR, Focus Boost, pool, decision window, Auto Build, ATB, IC, OC, PP, NP, Super Over, retention and more. | 2026-10-02 | - |
 | [Not yet documented](en/06-reference/not-yet-documented.md) | Features and screens that exist in the game but do not have a guide yet. If a question is about one of these, say the details are not available rather than guessing. | 2026-10-02 | - |
+
+## Screens
+
+| File | Summary | Updated | Bangla |
+|---|---|---|---|
+| [Screens: first launch and team creation](en/07-screens/first-launch-and-team-creation.md) | Screenshots and written walk-through of the first-run flow: loading, sign-in, being placed in a league, the 4-step team wizard (name, badge, captain, review), the squad reveal and the Getting Started checklist. | 2026-10-02 | - |
+| [Screens: Home, modes and the More menu](en/07-screens/home-and-navigation.md) | Screenshots and descriptions of the Home hub, the game mode picker (Quick Match, The Global Cup), the League hub and the More menu with competitions, rankings and explore lists. | 2026-10-02 | - |
+| [Screens: tournaments, series, points tables, rankings and teams](en/07-screens/league-and-tournament-screens.md) | Screenshots and descriptions of the tournament list, the New Tournament wizard (format, trophy, clubs, name), series and championship pages, completion popups, the archive, rankings, and the Teams pages (overview, squad, fixtures, results). | 2026-10-02 | - |
+| [Screens: Market, Signing, Scout, Offers and History](en/07-screens/market-screens.md) | Screenshots and descriptions of the Market hub, the Signing Market (Recommended, player offer panel, Compare), Scout, Offers, History, Release Player and what the market looks like when it is closed. | 2026-10-02 | - |
+| [Screens: pre-match, Match Preparation, live match and results](en/07-screens/match-day-screens.md) | Screenshots and descriptions of the pre-match hub, Match Preparation tasks and Focus meter, the live match screen (spinner, DEF/BAL/AGG, odds bar), Scorecard, Graphs, History and Info tabs, the result screen, rewards, career cards and the league rank reveal. | 2026-10-02 | - |
+| [Screens: Team hub, Playing XI, squad and player pages](en/07-screens/team-and-player-screens.md) | Screenshots and descriptions of the Team hub, the three Playing XI views, Full Squad, Team Stats, the player roster, player profile tabs (Overview, Stats, Cards, Pitch, Actions), field presets and the Training Lab. | 2026-10-02 | - |
 
