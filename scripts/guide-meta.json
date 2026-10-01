@@ -1,0 +1,44 @@
+{
+  "quick-match": {
+    "path": "03-matches/quick-match",
+    "title": "Quick Match",
+    "summary": "Fast one-off match against a bot opponent close to your team strength. Covers opponent selection, rewards, stars and the quick-match leaderboard.",
+    "keywords": ["quick match", "bot opponent", "change opponent", "stars", "leaderboard", "rewards"]
+  },
+  "league-match": {
+    "path": "03-matches/league-match",
+    "title": "League Match",
+    "summary": "How a league match works from ready-up and toss through ball-by-ball play (spinner, play styles, probability meter) to match tabs, autoplay and the match room.",
+    "keywords": ["league match", "toss", "spinner", "spin", "fast play", "play style", "probability meter", "autoplay", "scorecard", "match room", "pitch types"]
+  },
+  "match-preparation": {
+    "path": "03-matches/match-preparation",
+    "title": "Match Preparation and Focus Boost",
+    "summary": "Six preparation tasks before a league match, each worth +0.25 Focus Boost (max +1.5) applied to every player for that match, plus the focus level names.",
+    "keywords": ["match preparation", "focus boost", "prepare", "tasks", "focus level", "scout opponent", "train 4 players"]
+  },
+  "playing-xi": {
+    "path": "01-team/playing-xi",
+    "title": "Playing XI",
+    "summary": "Building and managing your Playing XI: Auto Build, Reserve, Tactical Balance (12 criteria), batting order zones, bowling order, formation, batting strategy, autoplay, captain, Super Over squad and team rules.",
+    "keywords": ["playing xi", "auto build", "reserve", "tactical balance", "batting order", "bowling order", "formation", "captain", "super over", "conservative", "standard", "attacking", "out of position"]
+  },
+  "field-setting": {
+    "path": "04-tactics/field-setting",
+    "title": "Field Setting",
+    "summary": "Default fielding presets for Powerplay (overs 1-3) and Normal Play (overs 4-10): zones, 18 presets, quality ratings and best preset by bowler and batter matchup.",
+    "keywords": ["field setting", "fielding", "powerplay", "normal play", "presets", "PP1", "NP1", "inner circle", "outer circle", "preset rating"]
+  },
+  "stadiums": {
+    "path": "04-tactics/stadiums-and-pitches",
+    "title": "Stadiums and Pitches",
+    "summary": "The five pitch types (Flat, Green, Dusty, Slow, Bouncy), how hidden pitch boosts of -2 to +3 work and who each pitch favours.",
+    "keywords": ["stadium", "pitch", "flat", "green", "dusty", "slow", "bouncy", "pitch boost", "spin", "pace"]
+  },
+  "signing-market": {
+    "path": "02-market/signing-market",
+    "title": "Signing Market",
+    "summary": "How to sign free agents: recommended picks, filters, Potential Playing XI, Scout, offers and price, decision windows, how players decide, results, squad delivery, History and pool quotas.",
+    "keywords": ["signing market", "free agent", "offer", "decision window", "sealed bid", "scout", "recommended", "pool quota", "history", "ready to add", "watchlist", "outbid"]
+  }
+}
