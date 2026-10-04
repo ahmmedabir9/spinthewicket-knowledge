@@ -58,9 +58,9 @@ Every file in the knowledge base, with a one-line summary. English files are in 
 | File | Summary | Updated | Bangla |
 |---|---|---|---|
 | [App navigation: where to find things](en/06-reference/app-navigation.md) | A tour of the app screens: bottom navigation, Home, Team, League, Market and More tabs, first-run flow, match screens and where each feature lives. | 2026-10-02 | - |
-| [Frequently asked questions](en/06-reference/faq.md) | Quick answers to common player questions on teams, the Signing Market, matches, training, fielding, pitches and seasons, each linking to the detailed guide. | 2026-10-02 | - |
+| [Frequently asked questions](en/06-reference/faq.md) | Quick answers to common player questions on teams, the Signing Market, matches, training, fielding, pitches and seasons, each linking to the detailed guide. | 2026-10-04 | - |
 | [Glossary](en/06-reference/glossary.md) | Definitions of game terms: OVR, Focus Boost, pool, decision window, Auto Build, ATB, IC, OC, PP, NP, Super Over, retention and more. | 2026-10-02 | - |
-| [Not yet documented](en/06-reference/not-yet-documented.md) | Features and screens that exist in the game but do not have a guide yet. If a question is about one of these, say the details are not available rather than guessing. | 2026-10-02 | - |
+| [Not yet documented](en/06-reference/not-yet-documented.md) | Features and screens that exist in the game but do not have a guide yet. If a question is about one of these, say the details are not available rather than guessing. | 2026-10-04 | - |
 
 ## Screens
 
