@@ -5,7 +5,7 @@ keywords: ["not documented", "unknown", "missing", "coming soon", "no guide", "u
 language: en
 audience: players
 source: hand-written
-last_updated: 2026-10-02
+last_updated: 2026-10-04
 ---
 
 # Not yet documented
@@ -14,7 +14,7 @@ These parts of the game exist, but this knowledge base does not have reliable de
 
 ## Game modes
 
-- The mode picker on Home has six modes. Only two are identified: **Quick Match** (1 club, 10 overs, earns stars) and **The Global Cup** (8-32 clubs, cross-league, any time). The Global Cup rules and the other four modes are not documented here. See [Home screens](../07-screens/home-and-navigation.md).
+- The mode picker on Home has six modes. Only two are identified: **Quick Match** (1 club, 10 overs, earns stars) and **The Global Cup** (8-32 clubs, cross-league, any time). The Global Cup entry rules, fixture rules, rewards and the other four modes are not documented here. See [Home screens](../07-screens/home-and-navigation.md).
 - Other competitive or fantasy-style modes (for example score-based challenges) are not documented.
 
 ## Screens and features

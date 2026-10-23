@@ -4,6 +4,7 @@ Record every change to the knowledge base here, newest first. When the game itse
 
 ## Unreleased
 
+- Added FAQ entries for The Global Cup, increasing player OVR, and whether OVR changes automatically at season end.
 - Added 80 app screenshots (compressed WebP, names blurred; account, settings and chat screens left out) and six screen pages in `07-screens/` with a written description of every image.
 - Corrected pages using what the screenshots showed: new teams can start with 20M (not always 2,000,000); player ratings reach the mid-90s (no 94 ceiling); tournament types now list Bilateral Series, Tri-series and Knockout Cup, the four-step creation wizard and the fixed fixture list.
 - Updated "Not yet documented": the mode picker has six modes (Quick Match and The Global Cup identified); Training Lab screen described.

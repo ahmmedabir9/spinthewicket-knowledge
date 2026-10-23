@@ -5,7 +5,7 @@ keywords: ["faq", "questions", "help", "how do i", "why", "can i", "what happens
 language: en
 audience: players
 source: hand-written
-last_updated: 2026-10-02
+last_updated: 2026-10-04
 ---
 
 # Frequently asked questions
@@ -64,6 +64,9 @@ Yes, with the Sell Players tile. A 10% fee applies. See [Transfers and selling](
 **What is Quick Match?**
 A fast game against a bot opponent close to your team strength. You can change the opponent before starting. See [Quick Match](../03-matches/quick-match.md).
 
+**How do I play The Global Cup?**
+Open the mode picker from the Home screen's **Play** banner, swipe to **The Global Cup**, then use **Enter the Global Cup**. The mode card says it is for **8-32 clubs**, **cross-league** and available **any time**. Detailed Global Cup rules are not documented yet, so check the in-app screen or ask a moderator if you need exact entry, fixture or reward rules.
+
 **Who presses the spin button?**
 The batting team's manager spins. Tap Spin, or press the spacebar on desktop. Fast Play skips the wheel slowdown. See [League Match](../03-matches/league-match.md).
 
@@ -92,6 +95,9 @@ Dusty and slow suit spin and patient batters, green and bouncy suit pace, flat s
 **How do I train a player?**
 Open Team, then Training. You need enough performance points, coins, and a player whose career stats meet the level's threshold. See [Training](../05-progression/training.md).
 
+**How do I increase a player's OVR?**
+Training is the main documented way to raise a player's match strength: each batting or bowling training level adds **+1** to that skill, up to level 5, while the training lasts. Match Preparation, home boost and pitch fit can also change a player's effective strength for a match. Base OVR is set by the game team and may be reviewed from time to time; there is no documented button that permanently raises base OVR on demand. See [Player roles and ratings](../01-team/player-roles-and-ratings.md) and [Training](../05-progression/training.md).
+
 **Why did my player lose a training level?**
 Trained ability wears off every match, faster if the player is benched for 3 matches in a row or if their stats fall below the threshold. At 0 ability they lose a level.
 
@@ -100,6 +106,9 @@ Playing and winning matches, training players, signing players and winning champ
 
 **What happens at the end of a season?**
 The league may start retention: your XI is cleared, contracts expire, you choose who to keep, and the rest are released with a refund (base price minus 10%). See [Retention and releases](../02-market/retention-and-releases.md).
+
+**Do player OVRs change automatically when a season ends?**
+The documented season-end change is retention: your XI is cleared, contracts expire, and you choose who to keep. The knowledge base does not say that every player automatically gains or loses base OVR at season end. A player's match strength can still change through training, Focus Boost, home boost, pitch fit and position penalties, and base ratings may be reviewed by the game team from time to time.
 
 **How do tournament points work?**
 Win 2, tie 1, loss 0; net run rate breaks ties. See [Tournaments and seasons](../05-progression/tournaments-and-seasons.md).
