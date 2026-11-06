@@ -1,11 +1,11 @@
 ---
 title: "Frequently asked questions"
 summary: "Quick answers to common player questions on teams, the Signing Market, matches, training, fielding, pitches and seasons, each linking to the detailed guide."
-keywords: ["faq", "questions", "help", "how do i", "why", "can i", "what happens", "common questions", "troubleshooting"]
+keywords: ["faq", "questions", "help", "how do i", "why", "can i", "what happens", "common questions", "troubleshooting", "best team", "best xi", "strongest xi", "team build", "বেস্ট টিম", "সেরা একাদশ", "সেরা দল"]
 language: en
 audience: players
 source: hand-written
-last_updated: 2026-10-04
+last_updated: 2026-11-06
 ---
 
 # Frequently asked questions
@@ -17,6 +17,9 @@ Your XI must have exactly 11 players, a captain from those 11, at least 1 wicket
 
 **What does Auto Build do?**
 It picks the best valid XI from your squad and sets the bowling order too, taking your league rules and chosen formation into account. See [Playing XI](../01-team/playing-xi.md).
+
+**How do I build my best team or Playing XI?**
+Start with **Auto Build** to pick the best valid XI from your squad and set a complete bowling order. Then check **Tactical Balance**, keep batters in their preferred batting zones, and fix any missing balance criteria. Before the match, confirm your captain, bowling order and Super Over squad. See [Playing XI](../01-team/playing-xi.md) and [Player roles and ratings](../01-team/player-roles-and-ratings.md).
 
 **Why can't I swap this bench player in?**
 A bench player can only replace a player with the same role (an all-rounder for an all-rounder, a bowler for a bowler).
